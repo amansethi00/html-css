@@ -19,7 +19,7 @@ hr {
 }
 .center-container {
   margin: auto;
-  max-width: 600px;
+  max-width: 500px;
 }
 
 /* links */
@@ -105,4 +105,27 @@ hr {
 }
 .footer ul {
   padding-inline-start: 0px;
+}
+.footer .footer-header {
+  font-size: large;
+}
+.footer .link-footer {
+  color: white;
+}
+
+.footer .social-links a:-webkit-any-link {
+  color: white;
+}
+
+.section .container .projects {
+  margin-top: 0rem;
+}
+
+.space-1rem {
+  /* margin-top: 1rem;
+  width: 100%; */
+  padding: 1rem;
+}
+.space-rem {
+  padding: 0.5rem;
 }
