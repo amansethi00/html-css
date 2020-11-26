@@ -129,3 +129,7 @@ hr {
 .space-rem {
   padding: 0.5rem;
 }
+.link-nav {
+  width: auto;
+  margin-left: -1rem;
+}
